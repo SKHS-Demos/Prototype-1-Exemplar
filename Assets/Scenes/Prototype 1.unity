@@ -2533,6 +2533,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 20
+  yawRate: 20
+  vertInput: 0
+  horzInput: 0
 --- !u!54 &1082570980
 Rigidbody:
   m_ObjectHideFlags: 0
