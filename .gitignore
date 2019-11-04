@@ -6,6 +6,8 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+!docs/Build
+
 # macOS
 .DS_Store
 
