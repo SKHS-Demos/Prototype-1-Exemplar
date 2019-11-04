@@ -8,6 +8,9 @@ Assets/AssetStoreTools*
 
 !docs/Build
 
+# vi
+*.swp
+
 # macOS
 .DS_Store
 
